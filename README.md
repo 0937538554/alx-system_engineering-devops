@@ -1,1 +1,2 @@
-README.me
+#!/bin/bash
+alx-system_engineering-devops
