@@ -1,0 +1,1 @@
+past -d, -- | cut -d, -f1
